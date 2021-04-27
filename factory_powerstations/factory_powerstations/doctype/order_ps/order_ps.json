@@ -1,0 +1,121 @@
+{
+ "actions": [],
+ "autoname": "field:name_order",
+ "creation": "2021-04-27 08:32:35.397186",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "name_order",
+  "file_task",
+  "column_break_4",
+  "client",
+  "date_ready",
+  "section_break_7",
+  "assembly_areas",
+  "product",
+  "\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e",
+  "notes",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "name_order",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u041d\u043e\u043c\u0435\u0440 \u0437\u0430\u043a\u0430\u0437\u0430",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "file_task",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "\u0424\u0430\u0439\u043b \u0422\u0417",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "client",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "\u041a\u043b\u0438\u0435\u043d\u0442",
+   "options": "Client",
+   "reqd": 1
+  },
+  {
+   "fieldname": "date_ready",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "\u0414\u0430\u0442\u0430 \u0441\u0434\u0430\u0447\u0438",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_7",
+   "fieldtype": "Section Break"
+  },
+  {
+   "columns": 2,
+   "fieldname": "assembly_areas",
+   "fieldtype": "Table",
+   "label": "\u0423\u0447\u0430\u0441\u0442\u043a\u0438 \u0441\u0431\u043e\u0440\u043a\u0438",
+   "options": "Area",
+   "reqd": 1
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e",
+   "fieldtype": "Section Break",
+   "label": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Text Editor",
+   "label": "\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Order_PS",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "product",
+   "fieldtype": "Link",
+   "hidden": 1,
+   "label": "\u0412 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435",
+   "options": "Power station"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2021-04-27 16:51:12.015274",
+ "modified_by": "Administrator",
+ "module": "Factory Powerstations",
+ "name": "Order_PS",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

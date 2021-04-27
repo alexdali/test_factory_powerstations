@@ -1,0 +1,72 @@
+{
+ "actions": [],
+ "autoname": "format:{order}-{model}",
+ "creation": "2021-04-27 10:49:44.899883",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "model",
+  "order",
+  "planned_ready_date",
+  "actual_ready_date",
+  "actual_start_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "model",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u041c\u043e\u0434\u0435\u043b\u044c",
+   "reqd": 1
+  },
+  {
+   "fieldname": "order",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "\u0417\u0430\u043a\u0430\u0437",
+   "options": "Order_PS",
+   "reqd": 1
+  },
+  {
+   "fieldname": "actual_ready_date",
+   "fieldtype": "Date",
+   "label": "\u0424\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0430\u0442\u0430 \u0441\u0434\u0430\u0447\u0438"
+  },
+  {
+   "fieldname": "actual_start_date",
+   "fieldtype": "Date",
+   "label": "\u0424\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0430\u0442\u0430 \u043d\u0430\u0447\u0430\u043b\u0430"
+  },
+  {
+   "fieldname": "planned_ready_date",
+   "fieldtype": "Date",
+   "label": "\u041f\u043b\u0430\u043d\u0438\u0440\u0443\u0435\u043c\u0430\u044f \u0434\u0430\u0442\u0430 \u0441\u0434\u0430\u0447\u0438",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-04-27 11:12:19.991211",
+ "modified_by": "Administrator",
+ "module": "Factory Powerstations",
+ "name": "Power station",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

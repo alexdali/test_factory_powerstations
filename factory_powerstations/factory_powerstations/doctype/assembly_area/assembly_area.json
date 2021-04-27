@@ -1,0 +1,53 @@
+{
+ "actions": [],
+ "autoname": "field:assembly_area",
+ "creation": "2021-04-27 09:59:53.994452",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "assembly_area",
+  "master_area"
+ ],
+ "fields": [
+  {
+   "fieldname": "assembly_area",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u0441\u0431\u043e\u0440\u043a\u0438",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "master_area",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a \u0443\u0447\u0430\u0441\u0442\u043a\u0430",
+   "options": "User"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-04-27 12:56:20.697569",
+ "modified_by": "Administrator",
+ "module": "Factory Powerstations",
+ "name": "Assembly area",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
