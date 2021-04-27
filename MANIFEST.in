@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include factory_powerstations *.css
+recursive-include factory_powerstations *.csv
+recursive-include factory_powerstations *.html
+recursive-include factory_powerstations *.ico
+recursive-include factory_powerstations *.js
+recursive-include factory_powerstations *.json
+recursive-include factory_powerstations *.md
+recursive-include factory_powerstations *.png
+recursive-include factory_powerstations *.py
+recursive-include factory_powerstations *.svg
+recursive-include factory_powerstations *.txt
+recursive-exclude factory_powerstations *.pyc
