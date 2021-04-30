@@ -6,8 +6,7 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "assembly_area",
-  "master_area"
+  "assembly_area"
  ],
  "fields": [
   {
@@ -17,18 +16,11 @@
    "label": "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u0441\u0431\u043e\u0440\u043a\u0438",
    "reqd": 1,
    "unique": 1
-  },
-  {
-   "fieldname": "master_area",
-   "fieldtype": "Link",
-   "in_list_view": 1,
-   "label": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a \u0443\u0447\u0430\u0441\u0442\u043a\u0430",
-   "options": "User"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-04-27 12:56:20.697569",
+ "modified": "2021-04-30 06:08:01.116751",
  "modified_by": "Administrator",
  "module": "Factory Powerstations",
  "name": "Assembly area",

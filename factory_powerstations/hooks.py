@@ -184,3 +184,5 @@ user_data_fields = [
 # 	"factory_powerstations.auth.validate"
 # ]
 
+fixtures = ["Order_PS"]
+

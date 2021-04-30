@@ -1,0 +1,488 @@
+[
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 1",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 1",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0422\u0440\u0435\u0442\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 1",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u041f\u0435\u0440\u0432\u044b\u0439",
+  "date_ready": "2021-05-31",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 11:23:43.846825",
+  "name": "\u0417\u0430\u043a\u0430\u0437 1",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 1",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435 \u043a \u0417\u0430\u043a\u0430\u0437\u0443 1</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 3",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 3",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0422\u0440\u0435\u0442\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 3",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0442\u0440\u0435\u0442\u0438\u0439",
+  "date_ready": "2021-05-20",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 15:59:59.390459",
+  "name": "\u0417\u0430\u043a\u0430\u0437 3",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 3",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u043e\u043b\u044f \u041f\u0440\u043e\u0434\u0443\u043a\u0442</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 4",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 4",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0422\u0440\u0435\u0442\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 4",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0439",
+  "date_ready": "2021-05-25",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 16:18:32.589851",
+  "name": "\u0417\u0430\u043a\u0430\u0437 4",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 4",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435 \u0417\u0430\u043a\u0430\u0437 4</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 5",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 5",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0422\u0440\u0435\u0442\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 5",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u043f\u044f\u0442\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 16:45:46.623841",
+  "name": "\u0417\u0430\u043a\u0430\u0437 5",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 5",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435 \u0437\u0430\u043a\u0430\u0437 5</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 6",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0432\u0442\u043e\u0440\u043e\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 16:49:49.403693",
+  "name": "\u0417\u0430\u043a\u0430\u0437 6",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 6",
+  "notes": "<div class=\"ql-editor read-mode\"><p>6</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 7",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 7",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0432\u0442\u043e\u0440\u043e\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 16:52:40.301594",
+  "name": "\u0417\u0430\u043a\u0430\u0437 7",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 7",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435 \u0417\u0430\u043a\u0430\u0437 7</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 8",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0442\u0440\u0435\u0442\u0438\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 16:55:10.616292",
+  "name": "\u0417\u0430\u043a\u0430\u0437 8",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 8",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c 8</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 9",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:02:58.522914",
+  "name": "\u0417\u0430\u043a\u0430\u0437 9",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 9",
+  "notes": "<div class=\"ql-editor read-mode\"><p>9</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0437\u0430\u043a\u0430\u0437 10",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u043f\u044f\u0442\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:05:34.346259",
+  "name": "\u0437\u0430\u043a\u0430\u0437 10",
+  "name_order": "\u0437\u0430\u043a\u0430\u0437 10",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 11",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u041f\u0435\u0440\u0432\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:20:57.905030",
+  "name": "\u0417\u0430\u043a\u0430\u0437 11",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 11",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 12",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:25:39.543244",
+  "name": "\u0417\u0430\u043a\u0430\u0437 12",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 12",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044413",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0442\u0440\u0435\u0442\u0438\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:32:52.222718",
+  "name": "\u0417\u044413",
+  "name_order": "\u0417\u044413",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044414",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0442\u0440\u0435\u0442\u0438\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 17:35:26.657601",
+  "name": "\u0417\u044414",
+  "name_order": "\u0417\u044414",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044415",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u041f\u0435\u0440\u0432\u044b\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 17:38:49.565159",
+  "name": "\u0417\u044415",
+  "name_order": "\u0417\u044415",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044417",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044417",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0432\u0442\u043e\u0440\u043e\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-27 17:44:27.322675",
+  "name": "\u0417\u044417",
+  "name_order": "\u0417\u044417",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u043f\u0440\u0438\u043c 3\u044417</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044418",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u044418",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0442\u0440\u0435\u0442\u0438\u0439",
+  "date_ready": "2021-04-30",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.pdf",
+  "modified": "2021-04-29 07:43:01.919134",
+  "name": "\u0417\u044418",
+  "name_order": "\u0417\u044418",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ },
+ {
+  "amended_from": null,
+  "assembly_areas": [
+   {
+    "area": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 2",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 2",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   },
+   {
+    "area": "\u0422\u0440\u0435\u0442\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043e\u043a",
+    "parent": "\u0417\u0430\u043a\u0430\u0437 2",
+    "parentfield": "assembly_areas",
+    "parenttype": "Order_PS"
+   }
+  ],
+  "client": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0432\u0442\u043e\u0440\u043e\u0439",
+  "date_ready": "2021-05-10",
+  "docstatus": 1,
+  "doctype": "Order_PS",
+  "file_task": "/private/files/\u0422\u04171.docx",
+  "modified": "2021-04-27 13:52:08.825405",
+  "name": "\u0417\u0430\u043a\u0430\u0437 2",
+  "name_order": "\u0417\u0430\u043a\u0430\u0437 2",
+  "notes": "<div class=\"ql-editor read-mode\"><p>\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435 \u043a \u0417\u0430\u043a\u0430\u0437\u0443 2</p></div>",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product": null
+ }
+]

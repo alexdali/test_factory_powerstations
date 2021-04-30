@@ -13,6 +13,8 @@
   "date_ready",
   "section_break_7",
   "assembly_areas",
+  "receiver_email",
+  "section_break_8",
   "product",
   "\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e",
   "notes",
@@ -88,15 +90,29 @@
   {
    "fieldname": "product",
    "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "options": "Power station",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_break_8",
+   "fieldtype": "Section Break",
+   "label": "\u0412 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435"
+  },
+  {
+   "fieldname": "receiver_email",
+   "fieldtype": "Link",
    "hidden": 1,
-   "label": "\u0412 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435",
-   "options": "Power station"
+   "in_list_view": 1,
+   "label": "\u041e\u043f\u043e\u0432\u0435\u0449\u0435\u043d\u0438\u0435 \u0435\u043c\u0430\u0439\u043b",
+   "options": "User"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2021-04-27 16:51:12.015274",
+ "modified": "2021-04-30 05:44:54.915768",
  "modified_by": "Administrator",
  "module": "Factory Powerstations",
  "name": "Order_PS",

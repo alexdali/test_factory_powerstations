@@ -6,7 +6,7 @@ frappe.ui.form.on('Order_PS', {
 	on_submit(frm) {
 
         // set a field as unhidden
-		frm.set_df_property('product', 'hidden', 0);
+		//frm.set_df_property('product', 'hidden', 0);
 		// set a field as read only
 		frm.set_df_property('product', 'read_only', !frm.is_new());
 
